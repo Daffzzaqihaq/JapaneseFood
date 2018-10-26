@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Japanese Food</string>
+
+    <string-array name="foods_name">
+        <item>Sushi</item>
+        <item>Sup Misio</item>
+        <item>Tempura</item>
+        <item>Edamame</item>
+        <item>Ramen</item>
+        <item>Mochi</item>
+    </string-array>
+
+    <string-array name="foods_detail">
+        <item>Sushi adalah masakan khas Jepang yang paling poputer di Dunia. Kebanyakan masyarakat Indonesia juga tidak asing dengan makanan ini. Karena filem–filem Jepang yang biasa mereka tonton sering menampilkan Sushi sebagai masakan yang dikonsumsi keluarga. Misalnya dalam filem Nobita atau Ninja Hatori. Sushi dibuat dari campuran antara seafood, potongan mentimun, sayur, salmon atau belut (unagi) kemudia baru digulung menggunakan nori (rumput laut) atau bisa juga menggunakan sishio, yaitu berupa makisu (anyaman bambu persegi panjang). Sebelum dimakan, sushi dipotong kecil-kecil terlebih dahulu supaya ketika hendak dimakan tidak mengalami kesusahan.</item>
+        <item>Kalau kamu berkunjung ke Jepang, kamu akan menemukan masyarakat disana menghidangkan sup misio sebagai makanan pembuka atau masakan pendamping. Kalau di Jepang sendiri, keberadaan sup misio layaknya kopi di Indonesia. Kalau nggak ada kopi pas sarapan pagi, rasanya ada yang kurang. Sup misio adalah masakan Jepang berupa misio, tahu, dan dashi (bumbu yang bisa digunakan untuk membuat kaldu ikan). Misio sendiri adalah bumbu khas Jepang yang terbuat dari kacang kedelai yang telah difermentasi, sehingga satu mangkuk misio bisa menyeimbangkan bahan-bahan yang tenggelam dengan bahan-bahan yang mengapung.</item>
+        <item>Tempura adalah masakan Jepang yang terbuat dari bahan-bahan ikan dan sayuran. Dicampur dengan bahan-bahan seperti telur, tepung gandum, dan air, kemudian digoreng dengan menggunakan minyak sayur. Cara memasak tempura tidak boleh dimasak dengan suhu yang tinggi, karena itu bisa merusak cita rasa dari bahan yang digunakan. Cara memasak yang tepat adalah dengan menggorengnya dengan suhu yang rendah dan dengan waktu yang cukup singkat. Masakan Jepang yang satu ini bisa kamu temui di restoran-restoran Jepang dengan rasa yang gurih dan renyah meskipun bumbu yang digunakan hanya berupa garam saja./</item>
+        <item>Kalau di Indonesia, Edamame dikenal sebagai kedelai yang dikukus dan direbus dalam waktu yang singkat. Cara penyajiannya dengan diberi sejumput garam untuk menambahkan rasa pada Edamame. Di Jepang sendiri, Edamame biasa dikonsumsi untuk camilan sehat. Dimana bisa menemukan makanan ini? Kamu baru bisa menemukan makanan ini kalau kamu berkunjung di restoran-restoran berkelas. Meskipun tampilannya biasa-biasa saja, tapi sekali mencobanya rasanya gurih dan lezat. Selain disajikan dalam bentuk yang masih untuh, Edamame ini kadang juga disajikan dalam bentuk sup hangat.</item>
+        <item>Coba tanyakan hal ini kepada temen kamu yang suka nonton Anime. ‘Apa yang ada di pikiranmu kalu dengar kata Mie Ramen?’ Pasti jawaban mereka adalah “Makanan Jepang kesukaan Naruto”. Yah, Mie Ramen adalah makanan kesukaan dati tokoh utama dari filem anime Naruto. Dari filem inilah seluruh dunia tahu kalau Mie Ramen adalah makanan khas Jepang berupa mie yang di campur dengan bahan-bahan yang kaya akan protein. Kalau di Indonesia, Mie Raneb seperi Mie Ayam kali ya…  Makanan Jepang yang satu ini terbuat dari campuran kuah kaldu yang berisi miso, daging, ikan, dan irisan bawang akan membuat citarasa masakan ini menjadi lebih gurih.</item>
+        <item>Kue Mochi adalah makanan khas Jepang yang terbuat dari bahan beras ketan. Pembuatan kue ini dengan cara menumbuk beras ketan sampai halus, dicampur dengan beberapa bumbu sampai menghasilkan tekstur adonan yang lembut dan lengket. Setelah adonan sudah jadi, langkah selanjutnya adalah membentuk adonan menjadi bentuk lonjong dan memberiwarna sehingga roti terlihat berwarna-warnai. Kalau kamu pingin mendapatkan kue ini secara gratis, kamu bisa datang di perayaan mochitsuki, karena pada perayaan ini, banyak kue mochi yang terhidang secara gratis. Yang menarik dari makanan ini adalah sensasi yang didapatkan ketika memakan kue mochi. Ketika pertama kali kamu memasukkan kue mochi ke dalam mulut. Kamu akan merasakan tekstur yang lembut, lama-kelamaan kamu akan merasakan perubahan tekstur kue ini yang merubah menjadi lengket./</item>
+    </string-array>
+
+</resources>
